@@ -486,6 +486,7 @@
 				96719CAD1CF0F48F00AF5C3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		96719CAE1CF0F48F00AF5C3B /* Build configuration list for PBXNativeTarget "TipProTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +495,7 @@
 				96719CB01CF0F48F00AF5C3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		96719CB11CF0F48F00AF5C3B /* Build configuration list for PBXNativeTarget "TipProUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +504,7 @@
 				96719CB31CF0F48F00AF5C3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
