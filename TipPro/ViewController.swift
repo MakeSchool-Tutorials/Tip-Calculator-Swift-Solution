@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController, UITextFieldDelegate {
+class ViewController: UIViewController {
     @IBOutlet weak var billAmountField: UITextField!
     @IBOutlet weak var tipSelector: UISegmentedControl!
     @IBOutlet weak var tipAmountField: UITextField!
@@ -17,7 +17,6 @@ class ViewController: UIViewController, UITextFieldDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        billAmountField.delegate = self
     }
     
     override func didReceiveMemoryWarning() {
